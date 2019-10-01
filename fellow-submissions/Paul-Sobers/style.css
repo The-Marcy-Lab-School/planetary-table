@@ -1,0 +1,41 @@
+        html{
+            font-family: sans-serif;
+        }
+        table{
+            border:2px solid rgb(235,235,235);
+            border-collapse: collapse;
+            letter-spacing: 1px;
+            width:1585px;
+            height:418px;
+           
+        }
+        
+        th, td{ 
+           
+            border:1px solid rgb(191,191,191);
+            padding:10px 20px;
+            
+        }
+        
+        caption{
+            padding-bottom:11px;
+            
+        }
+        h1{
+            padding-bottom:39px;
+        }
+        th{
+             background-color: rgb(235,235,235);
+             
+        }
+        /*[scope="row"] {*/
+        /*border:2px solid rgb(0,0,0);*/
+
+        /*}*/
+    
+        tr:nth-child(odd) td{
+        background-color:rgb(245,245,245);
+        }
+        thead:nth-child(even) tr td{
+        background-color:rgb(250,250,250);
+        }
