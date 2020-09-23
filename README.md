@@ -10,12 +10,7 @@
 
 * As always...
   1. Fork this repo.
-  2. Clone it to your local environment.
-  3. Enter the `fellow-submissions` directory.
-  4. Create a sub-folder with the following naming convention: `first-last`.
-  5. Create an `index.html` file and `style.css` file and ensure that they are linked.
-  6. Make changes to these files. Stage and commit your changes regularly.
-  7. When complete, push back up to your remote repo and open a pull request.
-
-### Due Date
-Friday, September 20 at 9AM
+  2. Clone your forked repo to your local environment.
+  3. Create an `index.html` file and `style.css` file and ensure that they are linked.
+  4. Make changes to these files. Stage and commit your changes regularly.
+  5. When complete, push back up to your remote repo and open a pull request to `The-Marcy-Lab-School:master` branch.
