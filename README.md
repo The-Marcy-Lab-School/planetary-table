@@ -9,8 +9,10 @@
   * Alternating colors can make it easier for the reader to distinguish between rows.
 
 * As always...
-  1. Fork this repo.
-  2. Clone your forked repo to your local environment.
-  3. Create an `index.html` file and `style.css` file and ensure that they are linked.
-  4. Make changes to these files. Stage and commit your changes regularly.
-  5. When complete, push back up to your remote repo and open a pull request to `The-Marcy-Lab-School:master` branch.
+  1a. If this is a *Practice Lab*, fork this repo and clone down the forked repo. **OR**
+  1b. If this is a *Lab Assignment*, just clone this repo without forking it.
+  2. Create your HTML and CSS files.
+  3. Stage, commit, and push your changes regularly.
+  4a. If this is a *Practice Lab*, open a pull request into `The-Marcy-Lab-School:master` branch to submit. **OR**
+  4b. If this is a *Lab Assignment*, copy the URL of this repo and submit it through Canvas. 
+
