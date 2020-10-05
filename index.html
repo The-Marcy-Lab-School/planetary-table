@@ -15,8 +15,8 @@
             <!--Table headings-->
             <thead>
                 <tr>
-                    <th colspan="2"></th> <!--First cell is empty-->
-                    <th>Name</th>
+                    <th colspan="2" id="corner"></th> <!--First cell is empty-->
+                    <th class="border" id="top">Name</th>
                     <th>Mass (1024kg)</th>
                     <th>Diameter (km)</th>
                     <th>Density (kg/m3)</th>
@@ -35,7 +35,7 @@
                 <!--First Row-->
               <tr class="even">
                 <th colspan="2" rowspan="4" scope="row">Terrestrial planets</th>
-                <th>Mercury</th>
+                <th class="border" scope="row">Mercury</th>
                 <td>0.330</td>
                 <td>4,879</td>
                 <td>5427</td>
@@ -49,7 +49,7 @@
               <!--Second Row-->
             
               <tr>
-                <th scope="row">Venus</th>
+                <th class="border" scope="row">Venus</th>
                 <td>4.87</td>
                 <td>12,104</td>
                 <td>5243</td>
@@ -62,7 +62,7 @@
               </tr>
               <!--Third Row-->
               <tr class="even">
-                <th scope="row">Earth</th>
+                <th class="border" scope="row">Earth</th>
                 <td>5.97</td>
                 <td>12,756</td>
                 <td>5514</td>
@@ -75,7 +75,7 @@
               </tr>
               <!--Fourth Row-->
               <tr>
-                <th scope="row">Mars</th>
+                <th class="border" scope="row">Mars</th>
                 <td>0.642</td>
                 <td>6,792</td>
                 <td>3933</td>
@@ -90,7 +90,7 @@
               <tr class="even">
                 <th scope="row" rowspan="4">Jovian planets</th>
                 <th scope="row" rowspan="2">Gas giants</th>
-                <th scope="row">Jupiter</th>
+                <th class="border" scope="row">Jupiter</th>
                 <td>1898</td>
                 <td>142,984</td>
                 <td>1326</td>
@@ -103,7 +103,7 @@
               </tr>
               <!--Sixth Row-->
               <tr>
-                <th scope="row">Saturn</th>
+                <th class="border" scope="row">Saturn</th>
                 <td>568</td>
                 <td>120,536</td>
                 <td>687</td>
@@ -116,8 +116,8 @@
               </tr>
               <!--Seventh Row-->
               <tr class="even">
-                <th scope="row"rowspan="2">Ice giants</th>
-                <th>Uranus</th>
+                <th scope="row" rowspan="2">Ice giants</th>
+                <th class="border" scope="row">Uranus</th>
                 <td>86.8</td>
                 <td>51,118</td>
                 <td>1271</td>
@@ -131,7 +131,7 @@
               
               <!--Eigth Row-->
               <tr>
-                <th scope="row">Neptune</th>
+                <th class="border" scope="row">Neptune</th>
                 <td>102</td>
                 <td>49,528</td>
                 <td>1638</td>
@@ -145,7 +145,7 @@
               <!--Ninth Row-->
               <tr class="even">
                 <th colspan="2" scope="row">Dwarf planets</th>
-                <th scope="row">Pluto</th>
+                <th class="border" scope="row" id="bottom">Pluto</th>
                 <td>0.0146</td>
                 <td>2,370</td>
                 <td>2095</td>
