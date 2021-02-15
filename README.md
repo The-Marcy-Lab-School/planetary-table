@@ -1,5 +1,4 @@
-# Unit 1 Lesson 3: Tables and Lists
-## Lab: Planetary Table 🌍 🔭
+# Lab: Planetary Table 🌍 🔭
 
 ### Directions
 
