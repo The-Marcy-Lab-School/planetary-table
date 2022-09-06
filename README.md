@@ -2,7 +2,7 @@
 
 ### Directions
 
-Your goal is to [**recreate this table**](https://mdn.github.io/learning-area/html/tables/assessment-finished/planets-data.html) using your knowledge of basic and advanced HTML table structure.
+Your goal is to [**recreate this table**](./table.png) using your knowledge of basic and advanced HTML table structure.
 
 **After** you've gotten your table structure to match, you may style this table according to your own preferences; however, you styling should enhance the _clarity_ and _readability_ of your table. A couple of things to keep in mind:
   * Your column and row headers should be bold.
